@@ -14,7 +14,7 @@ public class JalankanPerhitungan {
         // Dikumpulkan hari sabtu,23 april 2022
         // Dikirim ke "aherijanto@mimoapps.xyz"email berupa github repo masing2
         // Subject email : TM_NIM_NamaLengkap_Kelas
-        // e.g : TM_21090068_Riyan bayu saputra_2C
+        // e.g : TM_21090041_Riyan bayu saputra_2C
 
         System.out.println("----------");
         System.out.println("Hasil pertambahan :");
